@@ -27,7 +27,7 @@ body{
   border-color: darkmagenta;
   background-color: lightgoldenrodyellow;
 }
-.about{
+.events{
   border-style: groove;
   border-color: darkmagenta;
   background-color: lightgoldenrodyellow;
@@ -37,7 +37,7 @@ body{
   padding-left: 10px;
   padding-right: 10px;
 }
-.edu{
+.sdl{
   border-style: groove;
   border-color: darkmagenta;
   background-color: lightgoldenrodyellow;
@@ -47,26 +47,10 @@ body{
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom:10px;
-  table,th,td{
-    border: 1px solid black;
-    border-collapse: collapse;
-  }
-  th,td{
-    padding:10px;
-  }
-}
-.skills{
+  }  
+
+.learning{
   ul{list-style-position:inside;}
-  border-style: groove;
-  border-color: darkmagenta;
-  background-color: lightgoldenrodyellow;
-  width: 500px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.activity{
   border-style: groove;
   border-color: darkmagenta;
   background-color: lightgoldenrodyellow;
